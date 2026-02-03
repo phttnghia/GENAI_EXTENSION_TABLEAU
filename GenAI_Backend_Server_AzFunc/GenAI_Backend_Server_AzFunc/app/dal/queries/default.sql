@@ -1,1 +1,0 @@
-select * from [bug-management_dm_11].[vw_bug_report_by_testplan]
